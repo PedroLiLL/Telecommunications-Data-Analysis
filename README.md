@@ -27,28 +27,32 @@ Por todo ello, este proyecto tiene como objetivo realizar un análisis integral 
 
         Los resultados del análisis mostraron que la penetración de Internet fijo varío significativamente a lo largo de los años, además de poseer una gran variabilidad en la cantidad promedio de acceso entre las diferentes provincias.
 
-        ![p-i-f](https://raw.githubusercontent.com/PedroLiLL/Telecommunications-Data-Analysis/main/assets/descarga.png)
+        ![p-i-f](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/evolucion%20de%20acceso.png?raw=true)
 
-        ![acceso-por-provincia](..\PROJECT\Telecommunications-Data-Analysis\assets\descarga (1).png)
+        ![acceso-por-provincia](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/penetracion%20promedio.png?raw=true)
 
     - **Acceso a banda ancha y banda angosta**
 
         Los datos evidenciaron que la mayoría de las provincias tienen un número muy bajo de conexiones de Dial up, con un promedio cercano a cero y una mayor acogida de banda ancha fija.
 
-        ![acceso-BAba]()
+        ![acceso-BAba](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/acceso%20promedio%20de%20BA%20y%20ba.png?raw=true)
 
     - **Acceso a Internet fijo por tecnología**
 
         Se observó una tendencia hacia el uso de tecnologías de acceso a Internet de alta velocidad como la Fibra Óptica y el Cablemodem; mientras que, por un lado el ADSL está disminuyendo en términos de cantidad de accesos, por otro lado la tecnología inalámbrica (Wireless) ha mantenido un nivel constante de accesos a lo largo de los años, lo que sugiere que su uso se ha mantenido estable. Además, los datos muestran que la Fibra Óptica y el Cablemodem representan más del 75% del total de accesos a Internet fijo en Argentina para el año 2022.
 
-        ![evolucion-acceso-internet]()
+        ![evolucion-acceso-internet](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/evolucion%20de%20acceso%20a%20internet%20fijo%20por%20tecnologia.png?raw=true)
 
-        ![evolucion-acceso-internet-zoom]()
+        ![evolucion-acceso-internet-zoom](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/evolucion%20de%20acceso%20a%20internet%20fijo%20por%20tecnologia%20zoom.png?raw=true)
 
     - **Velocidad Media de bajada de Internet fijo**
 
-        La velocidad media de bajada ha superado los 70 Mbps en el en 2022, lo que sugiere que se han producido mejoras significativas en la calidad de la conexión a Internet en los últimos años. Si embargo, los datos estadísticos arrojaron que existe una enorme brecha digital por provincias.
+        La velocidad media de bajada ha superado los 70 Mbps en el en 2022, lo que sugiere que se han producido mejoras significativas en la calidad de la conexión a Internet en los últimos años. Sin embargo, los datos estadísticos arrojaron que existe una enorme brecha digital por provincias.
 
-        ![promedio-minimo-velocidades]()
+        ![promedio-minimo-velocidades](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/promedio%20y%20m%C3%ADnimo%20de%20velocidades.png?raw=true)
+
+        Con respecto a la distribución de las categorías de velocidades, se observa una mayor adopción de velocidades más altas. La categoría de velocidad de acceso de más de 30 Mbps experimentó un crecimiento y es la que tiene la mayor cantidad de accesos para el año 2022 mientras se experimenta una reducción significativa en la cantidad de accesos en las categorías de velocidad de accesos menores a 6 Mbps.
+
+        ![categorias-velocidades](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/categorias%20de%20velocidades.png?raw=true)
 
 3. `KPIs`

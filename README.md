@@ -56,3 +56,27 @@ Por todo ello, este proyecto tiene como objetivo realizar un análisis integral 
         ![categorias-velocidades](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/categorias%20de%20velocidades.png?raw=true)
 
 3. `KPIs`
+
+    - **Aumentar en un 2% el acceso a internet en el próximo trimestre**
+
+        Se define la Variación del Acceso a Internet para el próximo trimestre como el cambio en el acceso a internet fijo por cada 100 hogares del trimestre actual y el siguiente. Su fórmula es:
+
+            ```
+            Variación del Acceso a Internet para el próximo trimestre = ([Accesos siguiente trimestre] - [Accesos trimestre actual])/[Accesos trimestre actual] * 100
+            ```
+
+    - **Aumentar en un 4% el acceso trimestral a banda ancha fija**
+
+        Se define la Variación Trimestral de Acceso a Banda Ancha Fija como el cambio en la cantidad de accesos a banda ancha fija del trimestre actual y el anterior. Su fórmula es:
+
+            ```
+            Variación del Acceso a Banda Ancha para el próximo trimestre = ([Accesos trimestre actual] - [Accesos trimestre anterior])/[Accesos trimestre anterior] * 100
+            ```
+
+    - **Porcentaje de localidades con acceso a internet**
+
+        Se calcula como la cantidad de localidades que tiene al menos un tipo de acceso a internet sobre el total de localidades de cada provincia.
+    
+    ![Dashboard1](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/dashboard1.png?raw=true)
+
+    ![Dashboard2](https://github.com/PedroLiLL/Telecommunications-Data-Analysis/blob/main/assets/dashboard2.png?raw=true)

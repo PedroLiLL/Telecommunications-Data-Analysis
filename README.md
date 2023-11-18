@@ -1,5 +1,7 @@
 # Telecommunications-Data-Analysis
 
+![portada](https://woobsing.com/wp-content/uploads/2015/05/shutterstock_223699066_2.jpg)
+
 ## Introducción
 
 Este proyecto se realizó simulando ser un Data Analyst de una consultora y tiene como finalidad la elaboración de un análisis de datos solicitado por una empresa prestadora de servicios de telecomunicaciones que permita reconocer el comportamiento de este sector a nivel nacional y orientar a ésta en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
